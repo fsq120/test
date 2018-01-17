@@ -87,5 +87,6 @@ int main () {
   cout << (int)ffff << endl;
   return 0;
 
+  cout << "this is test1." << endl;
 }
 
